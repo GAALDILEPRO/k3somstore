@@ -1,0 +1,44 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "command": "npm run dev",
+      "problemMatcher": [],
+      "label": "🚀 Start K3SOMSTORE (Frontend + Backend)",
+      "detail": "Runs both Backend (:5000) and Frontend (:3000) with a single click",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "type": "shell",
+      "command": "npm run dev:frontend",
+      "problemMatcher": [],
+      "label": "💻 Start Frontend Only (:3000)",
+      "detail": "Runs Next.js storefront on http://localhost:3000"
+    },
+    {
+      "type": "shell",
+      "command": "npm run dev:backend",
+      "problemMatcher": [],
+      "label": "🍃 Start Backend Only (:5000)",
+      "detail": "Runs Express & MongoDB REST API on http://localhost:5000"
+    },
+    {
+      "type": "shell",
+      "command": "npm run seed",
+      "problemMatcher": [],
+      "label": "🌱 Seed MongoDB Database",
+      "detail": "Populates MongoDB with products, categories, and accounts"
+    },
+    {
+      "type": "shell",
+      "command": "npm run build",
+      "problemMatcher": [],
+      "label": "📦 Build Frontend for Production",
+      "detail": "Creates optimized production build with zero errors"
+    }
+  ]
+}

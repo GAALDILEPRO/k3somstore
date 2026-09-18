@@ -1,0 +1,22 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+    ["cx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+  ],
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": "package-lock.json, tsconfig.json, next.config.ts, postcss.config.mjs, eslint.config.mjs",
+    ".env": ".env.local, .env.example, .env.production",
+    "schema.prisma": "schema.prisma"
+  }
+}
