@@ -22,7 +22,7 @@ export default function AccountPage() {
               <h1 className="text-xl sm:text-2xl font-black text-slate-950">
                 Guled Abdi Ali
               </h1>
-              <p className="text-xs text-slate-500 font-mono">+252 61 543 2198 • Mogadishu</p>
+              <p className="text-xs text-slate-500 font-mono">+252 61 4139014 • Mogadishu</p>
             </div>
           </div>
 
@@ -169,7 +169,7 @@ export default function AccountPage() {
                 Wadajir Commercial Center, 2nd Floor<br />
                 Medina / Wadajir, Mogadishu, Somalia
               </p>
-              <p className="text-xs font-mono text-slate-500">+252 61 543 2198</p>
+              <p className="text-xs font-mono text-slate-500">+252 61 4139014</p>
             </div>
           </div>
         )}
@@ -189,7 +189,7 @@ export default function AccountPage() {
               <div>
                 <label className="text-slate-400 block mb-1">Phone Number (Somalia)</label>
                 <div className="p-3 bg-slate-50 rounded-xl font-bold font-mono text-slate-900">
-                  +252 61 543 2198
+                  +252 61 4139014
                 </div>
               </div>
               <div>
