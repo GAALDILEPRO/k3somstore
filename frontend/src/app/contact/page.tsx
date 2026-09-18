@@ -74,7 +74,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <strong className="block text-slate-900 font-bold">Customer Phone Line</strong>
-                    <span className="font-mono text-slate-700 font-bold">+252 61 500 0000</span>
+                    <span className="font-mono text-slate-700 font-bold">+252 61 4139014</span>
                     <p className="text-[11px] text-slate-400 mt-0.5">Sat - Thu: 8:00 AM - 10:00 PM</p>
                   </div>
                 </div>
