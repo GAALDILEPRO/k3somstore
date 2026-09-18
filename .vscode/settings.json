@@ -18,5 +18,7 @@
     "package.json": "package-lock.json, tsconfig.json, next.config.ts, postcss.config.mjs, eslint.config.mjs",
     ".env": ".env.local, .env.example, .env.production",
     "schema.prisma": "schema.prisma"
-  }
+  },
+  "git.path": "C:\\Users\\GAALDILE\\AppData\\Local\\Programs\\Git\\cmd\\git.exe",
+  "git.enabled": true
 }

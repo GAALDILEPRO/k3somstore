@@ -56,12 +56,12 @@ export default function ContactPage() {
                   <div>
                     <strong className="block text-slate-900 font-bold">WhatsApp Direct Helpline</strong>
                     <a
-                      href="https://wa.me/252614000000"
+                      href="https://wa.me/252614139014"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-emerald-600 font-semibold hover:underline"
                     >
-                      +252 61 400 0000
+                      +252 61 413 9014
                     </a>
                     <p className="text-[11px] text-slate-400 mt-0.5">Instant response in Somali &amp; English</p>
                   </div>
@@ -86,7 +86,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <strong className="block text-slate-900 font-bold">Official Email Support</strong>
-                    <span className="text-slate-700 font-medium">support@k3somstore.so</span>
+                    <span className="text-slate-700 font-medium">k3somstore@gmail.com</span>
                     <p className="text-[11px] text-slate-400 mt-0.5">For corporate orders &amp; inquiries</p>
                   </div>
                 </div>
